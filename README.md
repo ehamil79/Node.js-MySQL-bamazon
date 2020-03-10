@@ -1,4 +1,4 @@
-# BAmazon
+# Bamazon
 This projects simulates online shopping using command line interface.
 
 ## Overview
